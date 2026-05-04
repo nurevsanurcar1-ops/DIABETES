@@ -1,0 +1,16 @@
+# --- Veri Yönetimi ve Manipülasyon ---
+pandas==2.2.0
+numpy==1.26.4
+
+# --- Temel Makine Öğrenmesi Framework ---
+scikit-learn==1.4.0
+
+# --- Gelişmiş Algoritmalar ve Boosting ---
+xgboost==2.0.3
+
+# --- Veri Dengeleme (Sampling) ---
+imbalanced-learn==0.12.0
+
+# --- Görselleştirme ve Grafik Tasarım ---
+matplotlib==3.8.2
+seaborn==0.13.2
